@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="./favicon.png" />
+		<meta name="viewport" content="width=device-width" />
+		
+		<link href="./_app/immutable/assets/0.9e6a773f.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/2.e7faa06a.css" rel="stylesheet">
+		<link rel="modulepreload" href="./_app/immutable/entry/start.b6fefa1a.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/scheduler.e108d1fd.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.fce5dfdb.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/paths.72455b34.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/app.3a145ce5.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/index.a21d6cee.js">
+		<link rel="modulepreload" href="./_app/immutable/nodes/0.31ed6e9b.js">
+		<link rel="modulepreload" href="./_app/immutable/nodes/2.b5811b78.js">
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">  <section class="hero is-fullheight-with-navbar" data-svelte-h="svelte-18cpus3"><div class="hero-body"><div class="container has-text-centered"><img alt="The CodeVA logo" src="/_app/immutable/assets/CodeVA_Logo_Primary.f9d75d2f.png" class="svelte-wa07ki"> <h1 class="title my-5 svelte-wa07ki">CS Curriculum</h1> <p class="block is-italic">This site is under construction. Check back later!</p> <div class="buttons is-centered pt-5"><a href="https://goopenva.org/profile/18746" class="button is-large is-primary">Our Library</a> <a href="https://codevirginia.org" class="button is-large">About CodeVA</a></div></div></div> </section> 
+			
+			<script>
+				{
+					__sveltekit_1xyxm3a = {
+						base: new URL(".", location).pathname.slice(0, -1),
+						env: {}
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null];
+
+					Promise.all([
+						import("./_app/immutable/entry/start.b6fefa1a.js"),
+						import("./_app/immutable/entry/app.3a145ce5.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 2],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

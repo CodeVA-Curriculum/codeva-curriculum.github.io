@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<urlset
+			xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+			xmlns:xhtml="https://www.w3.org/1999/xhtml"
+			xmlns:mobile="https://www.google.com/schemas/sitemap-mobile/1.0"
+			xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+			xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+			xmlns:video="https://www.google.com/schemas/sitemap-video/1.1"
+		>
+			<url>
+				<loc>/library</loc>
+				<lastmod>2024-02-01</lastmod>
+			</url>
+			<url>
+				<loc>/library/browse</loc>
+				<lastmod>2024-02-01</lastmod>
+			</url>
+			<url>
+				<loc>/library/search</loc>
+				<lastmod>2024-02-01</lastmod>
+			</url>
+			<url>
+				<loc>/contact</loc>
+				<lastmod>2024-02-01</lastmod>
+			</url>
+			
+<url>
+			<loc>/library/browse/alignment-guides/0-5.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/6-8.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/grade-0.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/grade-1.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/grade-2.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/grade-3.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/grade-4.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/grade-5.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/grade-6.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/grade-7.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/grade-8.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/hard-history/grade-6.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/hard-history/grade-7.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/hard-history/grade-8.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides/hard-history</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/alignment-guides</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/boston-massacre.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cause-for-revolution.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/civil-war-roles.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/colonial-regions.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cryptography-usi/1-atbash.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cryptography-usi/2-pigpen.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cryptography-usi/3-mask-letters.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cryptography-usi/4-paul-revere.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cryptography-usi/5-culper-spy-ring.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cryptography-usi/6-underground-railroad-cryptography.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cryptography-usi</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cryptography-usii/1-choctaw-code-talkers.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cryptography-usii/2-navajo-code-talkers.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cryptography-usii/3-code-girls.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cryptography-usii/4-josephine-baker.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cryptography-usii/5-black-women-code-breakers.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/cryptography-usii</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/evaluating-bill-of-rights.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/indentured-servants.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/museum-of-westward-expansion.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/points-of-view.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/visualizing-geospatial-data.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/westward-movement/1-introduction.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/westward-movement/2-conditionals.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/westward-movement/3-modifying-conditionals.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/westward-movement/4-perspectives-project.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/westward-movement</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/where-am-i.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/cs-for-social-studies/whose-desk-is-it.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/data-science/codap.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/data-science</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/data-science/python.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/data-science/unplugged.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements/unit-4-microbit/1-output.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements/unit-4-microbit/2-input.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements/unit-4-microbit/3-variables.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements/unit-4-microbit/4-conditionals.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements/unit-4-microbit</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements/unit-4-microbit/puzzle-box-tutorials.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements/unit-4-python/1-io-variables-unplugged.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements/unit-4-python/2-io-arithmetic.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements/unit-4-python/3-io-variables-project.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements/unit-4-python/5-conditions-random.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements/unit-4-python/6-loops-logic.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements/unit-4-python/7-conditionals-project.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/ecs-supplements/unit-4-python</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/k5-art.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/k5-ela.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/k5-health.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/k5-hss.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/k5-math.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/k5-music.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/k5-pe.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/k5-science.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/ms-art.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/ms-ela.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/ms-health.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/ms-hss.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/ms-math.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/ms-music.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/ms-pe.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/content-area/ms-science.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/grade-level/grade-1.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/grade-level/grade-2.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/grade-level/grade-3.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/grade-level/grade-4.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/grade-level/grade-5.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/grade-level/grade-6.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/grade-level/grade-7.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/grade-level/grade-8.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/grade-level/kindergarten.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks/grade-level</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/crosswalks</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/pocket-guides/algorithms-programming.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/pocket-guides/computing-systems.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/pocket-guides/cybersecurity.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/pocket-guides/data-analysis.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/pocket-guides/impacts.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/pocket-guides</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/pocket-guides/networks-internet.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/vertical-articulation/0-3.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/vertical-articulation/2-5.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/vertical-articulation/6-8.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/vertical-articulation/algo.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/vertical-articulation/cyber.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/vertical-articulation/data.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/vertical-articulation/impacts.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/vertical-articulation</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/vertical-articulation/networks.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/integration-toolkit/vertical-articulation/systems.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/k-8-lessons/g7-microbit-math/1-input-event.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/k-8-lessons/g7-microbit-math/10-project-frame.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/k-8-lessons/g7-microbit-math/2-review-decimals-percents.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/k-8-lessons/g7-microbit-math/3-variables-operations-random.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/k-8-lessons/g7-microbit-math/4-intro-to-simulation.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/k-8-lessons/g7-microbit-math/5-histograms.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/k-8-lessons/g7-microbit-math/6-summing-simulation.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/k-8-lessons/g7-microbit-math/7-conditionals.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/k-8-lessons/g7-microbit-math/8-probability-as-decimals.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/k-8-lessons/g7-microbit-math/9-simulation-analysis.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/k-8-lessons/g7-microbit-math</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/k-8-lessons/origami-3-5.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/k-8-lessons/origami-6.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/microbit-resources</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/python/interactive-narratives.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/python</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/land-of-all/0-teacher-considerations.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/land-of-all/1-neither-book-study.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/land-of-all/2-land-of-all-sprite.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/land-of-all/3-high-five.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/land-of-all/4-lands-i-move-through.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/land-of-all</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/many-colors-of-us/1-the-skin-im-in.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/many-colors-of-us/2-how-we-describe-colors.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/many-colors-of-us/3-all-the-colors-we-are.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/many-colors-of-us/4-emoji-project.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/many-colors-of-us/5-poetry-project.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/many-colors-of-us</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/whats-in-a-name/0-teacher-considerations.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/whats-in-a-name/1-calvin-book-study.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/whats-in-a-name/2-identity-puzzle.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/whats-in-a-name/3-who-am-i.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/whats-in-a-name/4-the-name-jar.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/whats-in-a-name/5-friend-stamps.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/whats-in-a-name/6-pronouncing-names.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/whats-in-a-name/7-super-me.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/scratch-identity-packs/whats-in-a-name</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/twine-resources/flipbook.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/twine-resources</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/twine-resources/twine-chapbook-tip-sheet.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/twine-resources/twine-publish-directions.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>/library/browse/twine-resources/twine-trail-guide.md</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+		</urlset>

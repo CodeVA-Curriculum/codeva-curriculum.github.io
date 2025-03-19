@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<urlset
+			xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+			xmlns:xhtml="https://www.w3.org/1999/xhtml"
+			xmlns:mobile="https://www.google.com/schemas/sitemap-mobile/1.0"
+			xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+			xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+			xmlns:video="https://www.google.com/schemas/sitemap-video/1.1"
+		>
+			<url>
+				<loc>https://curriculum.codevirginia.org/library</loc>
+				<lastmod>2024-02-01</lastmod>
+			</url>
+			<url>
+				<loc>https://curriculum.codevirginia.org/library/browse</loc>
+				<lastmod>2024-02-01</lastmod>
+			</url>
+			<url>
+				<loc>https://curriculum.codevirginia.org/library/search</loc>
+				<lastmod>2024-02-01</lastmod>
+			</url>
+			<url>
+				<loc>https://curriculum.codevirginia.org/contact</loc>
+				<lastmod>2024-02-01</lastmod>
+			</url>
+			
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-0/k-ap-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-0/k-ap-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-0/k-csy-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-0/k-csy-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-0/k-cyb-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-0/k-cyb-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-0/k-da-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-0/k-da-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-0/k-ic-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-0/k-ic-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-0/k-ni-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-0</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1/1-ap-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1/1-ap-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1/1-ap-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1/1-csy-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1/1-csy-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1/1-cyb-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1/1-cyb-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1/1-da-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1/1-da-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1/1-ic-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1/1-ic-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1/1-ic-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1/1-ni-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2/2-ap-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2/2-ap-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2/2-ap-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2/2-csy-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2/2-csy-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2/2-cyb-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2/2-cyb-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2/2-da-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2/2-da-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2/2-ic-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2/2-ic-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2/2-ic-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2/2-ni-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-ap-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-ap-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-ap-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-csy-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-csy-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-cyb-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-cyb-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-cyb-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-da-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-da-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-da-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-ic-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-ic-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-ic-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-ic-4</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3/3-ni-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-ap-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-ap-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-ap-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-csy-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-csy-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-csy-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-cyb-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-cyb-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-cyb-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-da-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-da-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-da-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-ic-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-ic-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-ic-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-ic-4</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4/4-ni-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-4</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-ap-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-ap-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-ap-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-csy-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-csy-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-csy-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-cyb-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-cyb-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-da-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-da-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-da-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-ic-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-ic-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-ic-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-ic-4</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-ic-5</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5/5-ni-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-5</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-ap-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-ap-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-ap-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-ap-4</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-csy-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-csy-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-csy-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-cyb-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-cyb-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-da-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-da-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-da-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-da-4</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-ic-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-ic-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-ic-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-ic-4</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-ic-5</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-ic-6</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6/6-ni-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides/grade-6</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/alignment-guides</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/boston-massacre</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cause-for-revolution</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/civil-war-roles</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/colonial-regions</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cryptography-usi/1-atbash</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cryptography-usi/2-pigpen</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cryptography-usi/3-mask-letters</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cryptography-usi/4-paul-revere</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cryptography-usi/5-culper-spy-ring</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cryptography-usi/6-underground-railroad-cryptography</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cryptography-usi</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cryptography-usii/1-choctaw-code-talkers</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cryptography-usii/2-navajo-code-talkers</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cryptography-usii/3-code-girls</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cryptography-usii/4-josephine-baker</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cryptography-usii/5-black-women-code-breakers</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/cryptography-usii</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/evaluating-bill-of-rights</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/hard-history/grade-6</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/hard-history/grade-7</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/hard-history/grade-8</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/hard-history</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/indentured-servants</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/museum-of-westward-expansion</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/points-of-view</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/visualizing-geospatial-data</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/westward-movement/1-introduction</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/westward-movement/2-conditionals</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/westward-movement/3-modifying-conditionals</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/westward-movement/4-perspectives-project</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/westward-movement</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/where-am-i</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/cs-for-social-studies/whose-desk-is-it</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/data-science/codap</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/data-science</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/data-science/python</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/data-science/unplugged</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements/unit-4-microbit/1-output</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements/unit-4-microbit/2-input</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements/unit-4-microbit/3-variables</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements/unit-4-microbit/4-conditionals</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements/unit-4-microbit</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements/unit-4-microbit/puzzle-box-tutorials</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements/unit-4-python/1-io-variables-unplugged</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements/unit-4-python/2-io-arithmetic</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements/unit-4-python/3-io-variables-project</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements/unit-4-python/5-conditions-random</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements/unit-4-python/6-loops-logic</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements/unit-4-python/7-conditionals-project</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/ecs-supplements/unit-4-python</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/exploring-ai/ai-sol-crosswalk</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/exploring-ai/ai-tech-justice/1-5_dataset</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/exploring-ai/ai-tech-justice/1_role_of_data</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/exploring-ai/ai-tech-justice/2_bias_in_ai</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/exploring-ai/ai-tech-justice/3_teachable_machine</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/exploring-ai/ai-tech-justice/4a_ai_frankenstein</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/exploring-ai/ai-tech-justice/4b_ai_math</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/exploring-ai/ai-tech-justice/4c_ai_music</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/exploring-ai/ai-tech-justice/5_ethical_use</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/exploring-ai/ai-tech-justice</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/exploring-ai</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/exploring-ai/teachable-machine</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/k5-art</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/k5-ela</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/k5-health</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/k5-hss</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/k5-math</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/k5-music</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/k5-pe</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/k5-science</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/ms-art</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/ms-ela</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/ms-health</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/ms-hss</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/ms-math</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/ms-music</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/ms-pe</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/content-area/ms-science</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/grade-level/grade-1</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/grade-level/grade-2</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/grade-level/grade-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/grade-level/grade-4</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/grade-level/grade-5</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/grade-level/grade-6</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/grade-level/grade-7</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/grade-level/grade-8</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/grade-level/kindergarten</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks/grade-level</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/crosswalks</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/pocket-guides/algorithms-programming</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/pocket-guides/computing-systems</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/pocket-guides/cybersecurity</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/pocket-guides/data-analysis</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/pocket-guides/impacts</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/pocket-guides</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/pocket-guides/networks-internet</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/vertical-articulation/0-3</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/vertical-articulation/2-5</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/vertical-articulation/6-8</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/vertical-articulation/algo</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/vertical-articulation/cyber</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/vertical-articulation/data</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/vertical-articulation/impacts</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/vertical-articulation</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/vertical-articulation/networks</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/vertical-articulation/systems</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/integration-toolkit/vocab-cards</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/a-picture-is-worth</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/animal-classification</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/cause-and-effect-with-conditionals</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/compression-encryption</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/data-analysis-using-codap</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/data-cycles</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/data-monsters</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/food-chain-algorithms</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/g7-microbit-math/1-input-event</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/g7-microbit-math/10-project-frame</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/g7-microbit-math/2-review-decimals-percents</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/g7-microbit-math/3-variables-operations-random</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/g7-microbit-math/4-intro-to-simulation</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/g7-microbit-math/5-histograms</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/g7-microbit-math/6-summing-simulation</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/g7-microbit-math/7-conditionals</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/g7-microbit-math/8-probability-as-decimals</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/g7-microbit-math/9-simulation-analysis</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/g7-microbit-math</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/graphing-weather-data</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/k8-cs-ela</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/k8-cs-science</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/origami-3-5</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/origami-6</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/patterns-in-storytelling</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/plant-life-cycle</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/playground-slide-redesign</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/predictions-with-images</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/retelling-with-a-program</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/sorting-recycling</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/storytelling-with-algorithms</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/tech-survey-analysis</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/k-8-lessons/weather-dataset</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/microbit-resources</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/python/interactive-narratives</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/python</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/twine-resources/flipbook</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/twine-resources</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/twine-resources/twine-chapbook-tip-sheet</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/twine-resources/twine-publish-directions</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/twine-resources/twine-trail-guide</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/twine-resources/wida-crosswalk</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/vtec/chickahominy-land</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/vtec/data-visualization-of-the-virginia-native-tribes</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/vtec/fry-bread</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/vtec/go-show-the-world</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/vtec/impacts-of-westward-expansion</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/vtec/perspectives-on-the-dakota-access-pipeline</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/vtec/rappahannock's-return-to-the-river</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/vtec/remember</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/vtec/treaties</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/vtec/water-walker</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+<url>
+			<loc>https://curriculum.codevirginia.org/library/browse/vtec/young-water-protectors</loc>
+			<lastmod>2024-02-01</lastmod>
+		</url>
+		</urlset>
